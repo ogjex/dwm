@@ -43,9 +43,9 @@ static const Rule rules[] = {
 	 */
 	/* class      		instance    title       tags mask     isfloating   monitor */
 	{ "Gimp",     		NULL,       NULL,       0,            1,           -1 },
-	{ "1password",	  	NULL,       "Quick Access — 1Password",       0,            1,           -1 },
-	{ "1Password",	  	NULL,       "Quick Access — 1Password",       0,            1,           -1 },
-	{ "Zotero",	  	NULL,       "Quick Format Citation",       0,            1,           -1 },
+	{ NULL,			NULL,       "Quick Access — 1Password",       0,            1,           -1 },
+	/*{ "1Password",	  	NULL,       "Quick Access — 1Password",       0,            1,           -1 },*/
+	{ NULL,			NULL,       "Quick Format Citation",       0,            1,           -1 },
 	/* 1 - terminal and system tools */	
 	/* 2 - browsing */	
 	{ "firefox",  		NULL,       NULL,       1 << 1,       0,           -1 },
