@@ -1,9 +1,7 @@
 #############################################
-# config.h so that the repo only adds patches 
-# config.h is a symlink to ../config-h/
+# dwm, drw and all compiled *.o files #######
 #############################################
 
-config.h
 dwm
 drw
 *.o
